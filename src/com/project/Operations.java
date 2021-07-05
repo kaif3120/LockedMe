@@ -62,11 +62,6 @@ public class Operations {
 			sc.close();
 		}
 	}
-	
-	
-	
-	
-	
 	//to delete the user defined file from the repository
 	public void deleteFile() {
 		System.out.println("Enter file name");
@@ -82,10 +77,6 @@ public class Operations {
 		}
 		
 	}
-	
-	
-	
-	
 	//to list all the file
 	public void listFile() {
 		//Creating a File object for directory
